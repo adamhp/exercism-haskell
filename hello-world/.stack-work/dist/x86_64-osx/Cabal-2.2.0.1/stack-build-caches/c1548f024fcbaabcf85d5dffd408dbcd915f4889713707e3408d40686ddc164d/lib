@@ -1,0 +1,12 @@
+/Users/adam/dev/exercism/haskell/hello-world/package.yaml:
+  hash: 160a1a88b7a5bd0f6f1ffd3e24f56cbba5e4d4fbd7f76ea73d649199ca9d76a5
+  size: 359
+  modtime: 1560459807
+/Users/adam/dev/exercism/haskell/hello-world/src/HelloWorld.hs:
+  hash: abc5ee9c569101ce67b029aac68fab46cfa527aa51ca64f6a99f7da3a0655235
+  size: 72
+  modtime: 1560460158
+/Users/adam/dev/exercism/haskell/hello-world/hello-world.cabal:
+  hash: 9c5a4518deb2b1678266f83b3b642ee27c075e1e0897eff94c1e256457d7ab7c
+  size: 708
+  modtime: 1560459994

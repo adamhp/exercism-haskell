@@ -1,0 +1,12 @@
+/Users/adam/dev/exercism/haskell/nucleotide-count/nucleotide-count.cabal:
+  hash: e3fe331de17115ef0b2253afed99fb0c1b7d395646e57ea93e6b9cffe28a7d47
+  size: 755
+  modtime: 1561080073
+/Users/adam/dev/exercism/haskell/nucleotide-count/package.yaml:
+  hash: d3d3d3f5b5826559780422d5a774bfe615f85147ad3be88abbcb964d0f6617d2
+  size: 377
+  modtime: 1560715305
+/Users/adam/dev/exercism/haskell/nucleotide-count/src/DNA.hs:
+  hash: 2408dac4040b6de7b030f4b464205ec522a515d70947502f9118e24c070dfc57
+  size: 677
+  modtime: 1561080068

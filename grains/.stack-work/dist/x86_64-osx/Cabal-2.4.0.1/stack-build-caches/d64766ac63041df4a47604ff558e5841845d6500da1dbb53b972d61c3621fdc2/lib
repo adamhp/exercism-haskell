@@ -1,0 +1,12 @@
+/Users/adam/dev/exercism/haskell/grains/package.yaml:
+  hash: 54fb9dc6a6d17fad2e098f0f1c0958a01eb19217110896d17c6fe87d478c027e
+  size: 345
+  modtime: 1575742134
+/Users/adam/dev/exercism/haskell/grains/grains.cabal:
+  hash: 9e60b25be7579d831a1dffed62439ea7a52d284056b6ea079bd3f05866d3131c
+  size: 684
+  modtime: 1575745044
+/Users/adam/dev/exercism/haskell/grains/src/Grains.hs:
+  hash: bd84b99b9a358059d48f9adce18a492ed36202a075fe11ebaa51f6ac2fb6e4e2
+  size: 292
+  modtime: 1575744992
