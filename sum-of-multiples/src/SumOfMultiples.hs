@@ -7,10 +7,12 @@ module SumOfMultiples (sumOfMultiples) where
 -- The sum of these multiples is 78.
 
 sumOfMultiples :: [Integer] -> Integer -> Integer
-sumOfMultiples factors limit = error "You need to implement this function."
--- sumOfMultiples = sum [ i | i <- [1..limit], ]
+sumOfMultiples factors limit = sum $ filter (isMultiple factors) [1..(limit-1)]
 
-anyDivisible :: [Integer] -> Integer -> Bool
-anyDivisible factors n
-    | any [ i | i <- factors, mod i ] = True
+isMultiple :: [Integer] -> Integer -> Bool
+isMultiple [] _ = False
+isMultiple [y] x 
+    | y == 0 = False
+    | x `mod` y == 0 = True
     | otherwise = False
+isMultiple (y:ys) x = isMultiple ys x || x `mod` y == 0
